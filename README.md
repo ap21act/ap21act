@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, I'm Adarsha Paudel
 
-<!--
-**ap21act/ap21act** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduate in Electrical & Electronic Engineering | 💻 Software & Systems Developer  
+📍 Based in Hatfield, UK | 💼 Open to Software, IoT, Embedded, and Automation roles
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Technical Skills:
+- **Languages**: Python, JavaScript, C++, Embedded C, TypeScript, SQL  
+- **Frameworks/Tools**: React.js, Node.js, Express, Power BI, Power Automate, Git, Docker  
+- **Engineering**: AutoCAD, MATLAB, PCB Design, LoRa, VHDL, Bsolid (CNC), Signal Processing  
+- **Cloud & DevOps**: Azure (Fundamentals), AWS (Basics), Linux, GitHub Actions
+
+---
+
+### 💡 Projects:
+- **RF-Enabled Smart Sensor System**: Wireless LoRa sensor platform with FPGA logic and Power BI dashboard  
+- **Gesture-Controlled Robotic Vehicle**: Embedded C + Python system with real-time gesture response  
+- **6G Terahertz Simulation**: MATLAB simulation of high-frequency safety and signal loss
+
+---
+
+### 📫 How to Reach Me:
+[LinkedIn](https://www.linkedin.com/in/adarshapaudel) | [Email](mailto:paudeladarsha111@gmail.com)
